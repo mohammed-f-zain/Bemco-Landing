@@ -101,7 +101,7 @@ export default function Footer3() {
                     <div className="footer-bottom">
                         <div className="row align-items-center">
                             <div className="col-lg-6 col-md-8 text-md-start text-center">
-                                <span className="copyright-text">Copyright © 2022 <a href="/" target="_blank" rel="noreferrer" > Bemco Services</a> . All rights reserved.</span>
+                                <span className="copyright-text">Copyright © 2022 <a href="/" target="_blank" rel="noreferrer" > Tikram Arabia</a> . All rights reserved.</span>
                             </div>
                             <div className="col-lg-6 col-md-4 text-md-end text-center">
                                 <div className="dz-social-icon float-md-end float-center">
